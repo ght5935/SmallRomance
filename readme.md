@@ -5,9 +5,9 @@
 
 
 ### 快速预览
-访问[这个网站](http://lingyouhuiquanla.com/lover/)  国内网站
+访问[这个地址](https://ght5935.github.io/dist/index)
 
-或者访问[github.io网站](https://newnewking.github.io/SmallRomance/)
+或者访问[github.io网站](https://github.com/ght5935/SmallRomance)
 
 
 ### 开发者调试
@@ -45,12 +45,6 @@ npm run build
 只需改动参数就可开箱即用。
 
 参数说明相见global.js注释
-
-### 效果初级教程
-
-[烟花效果](https://github.com/NewNewKing/SmallRomance/issues/2);
-
-[文字粒子效果](https://github.com/NewNewKing/SmallRomance/issues/3);
 
 
 ### 参考项目
